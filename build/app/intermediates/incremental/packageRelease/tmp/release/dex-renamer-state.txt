@@ -1,0 +1,4 @@
+#Sat May 13 12:04:45 VET 2023
+base.0=C\:\\repos\\flutter_login_crud\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
